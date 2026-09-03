@@ -1,0 +1,870 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>三千堂鍼灸指圧治療院｜東京都世田谷区</title>
+<meta name="description" content="東京都世田谷区世田谷にある三千堂鍼灸指圧治療院。1978年開業、地元で愛される鍼灸・指圧・マッサージ治療院。訪問施術・保険施術・産前産後施術も承っております。">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <p class="site-title">
+      <a href="#top">三千堂鍼灸指圧治療院</a>
+    </p>
+    <button class="nav-toggle" id="navToggle" aria-label="メニューを開く" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="site-nav" id="siteNav">
+      <ul>
+        <li><a href="#about">当院について</a></li>
+        <li><a href="#services">施術案内</a></li>
+        <li><a href="#price">料金</a></li>
+        <li><a href="#access">アクセス</a></li>
+        <li><a href="#contact">お問い合わせ</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+
+  <section class="hero">
+    <div class="hero-inner">
+      <div class="hero-text">
+        <p class="hero-eyebrow">創業1978年　地域に根ざして</p>
+        <h1>丹田より、身体をととのえる。</h1>
+        <p class="hero-lead">
+          鍼灸・指圧・マッサージを通じて、当地で生まれ育ち、地元の皆様に愛される施術院を目指しております。
+        </p>
+        <a href="#contact" class="btn btn-primary">ご予約・お問い合わせ</a>
+      </div>
+      <div class="hero-photo">
+        <img src="images/hero.jpg" alt="三千堂鍼灸指圧治療院" loading="eager">
+      </div>
+    </div>
+  </section>
+
+  <section id="about" class="section fade-in">
+    <div class="section-inner">
+      <h2><span>当院について</span></h2>
+      <p class="lead-text">
+        三千堂鍼灸指圧治療院は1978年の開業以来、東京都世田谷区世田谷の地で、
+        鍼灸・指圧・マッサージによる施術を続けてまいりました。
+        当地で生まれ育った代表が、地元の皆様に長く愛される施術院を目指し、
+        家内と二人三脚で運営しております。
+      </p>
+
+      <div class="profile-grid">
+        <article class="profile-card">
+          <h3>代表　大竹隆</h3>
+          <p>
+            長年の肥田式強健術や各種武術体験から下腹丹田の重要性を感じ、施術に応用させて頂いております。
+            お身体に触れた瞬間から丹田よりの圧により、全体施術をする内に皆様の丹田も整って行くことを目標としております。
+          </p>
+        </article>
+
+        <article class="profile-card">
+          <h3>大竹一子</h3>
+          <p>
+            長年の施術経験からカウンセリング、キネシオロジー、神経整体、美容整体アロママッサージなどを深く学び、
+            皆様のお役に立たせて頂きたいと日々研鑽を積んでおります。
+          </p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section id="services" class="section section-alt fade-in">
+    <div class="section-inner">
+      <h2><span>施術案内</span></h2>
+
+      <div class="service-grid">
+        <div class="service-card">
+          <h3>鍼灸・指圧・マッサージ</h3>
+          <p>丹田を基軸とした全体施術で、身体の芯からのバランスをととのえます。</p>
+        </div>
+        <div class="service-card">
+          <h3>神経整体・美容整体</h3>
+          <p>カウンセリングやキネシオロジーを取り入れた神経整体、美容整体アロママッサージも承っております。</p>
+        </div>
+        <div class="service-card">
+          <h3>訪問施術</h3>
+          <p>ご来院が難しい方には、ご自宅への訪問施術を行っております。</p>
+        </div>
+        <div class="service-card">
+          <h3>保険施術</h3>
+          <p>医師の同意書（当院でご用意いたします）による保険施術も承っております。</p>
+        </div>
+        <div class="service-card">
+          <h3>産前産後の施術</h3>
+          <p>産前産後の体調に合わせた施術を行っております。世田谷区子育て利用券もお使いいただけます。</p>
+        </div>
+      </div>
+
+      <p class="note">
+        施術時間は症状や体力に応じますが、大体30分〜60分くらいが平均となります。
+      </p>
+    </div>
+  </section>
+
+  <section id="price" class="section fade-in">
+    <div class="section-inner">
+      <h2><span>料金</span></h2>
+      <table class="price-table">
+        <tbody>
+          <tr>
+            <th>基本施術</th>
+            <td>5,000円</td>
+          </tr>
+          <tr>
+            <th>神経整体・美容整体　等</th>
+            <td>プラス 3,000円〜5,000円</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="note">施術時間は症状や体力に応じ、大体30分〜60分くらいが平均となります。</p>
+    </div>
+  </section>
+
+  <section id="access" class="section section-alt fade-in">
+    <div class="section-inner">
+      <h2><span>アクセス・営業案内</span></h2>
+
+      <div class="access-photo">
+        <img src="images/exterior.jpg" alt="三千堂鍼灸指圧治療院 外観" loading="lazy">
+      </div>
+
+      <div class="access-grid">
+        <div class="access-info">
+          <dl>
+            <div class="info-row">
+              <dt>院名</dt>
+              <dd>三千堂鍼灸指圧治療院</dd>
+            </div>
+            <div class="info-row">
+              <dt>住所</dt>
+              <dd>〒154-0017<br>東京都世田谷区世田谷3-10-11</dd>
+            </div>
+            <div class="info-row">
+              <dt>開業</dt>
+              <dd>1978年</dd>
+            </div>
+            <div class="info-row">
+              <dt>電話</dt>
+              <dd>
+                03(3429)0055<br>
+                大竹隆　080-1368-7848<br>
+                大竹一子　070-5561-0055
+              </dd>
+            </div>
+            <div class="info-row">
+              <dt>メール</dt>
+              <dd><a href="mailto:sanzendo3@yahoo.co.jp">sanzendo3@yahoo.co.jp</a></dd>
+            </div>
+          </dl>
+        </div>
+
+        <div class="access-map">
+          <iframe
+            title="三千堂鍼灸指圧治療院 地図"
+            src="https://maps.google.com/maps?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%B8%96%E7%94%B0%E8%B0%B73-10-11&output=embed"
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade">
+          </iframe>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="section fade-in">
+    <div class="section-inner contact-inner">
+      <h2><span>お問い合わせ</span></h2>
+      <p class="lead-text">
+        ご予約・ご相談はお電話またはメールにて承っております。お気軽にお問い合わせください。
+      </p>
+      <div class="contact-buttons">
+        <a href="tel:0334290055" class="btn btn-primary">TEL 03-3429-0055</a>
+        <a href="mailto:sanzendo3@yahoo.co.jp" class="btn btn-outline">メールで問い合わせる</a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <p>三千堂鍼灸指圧治療院｜東京都世田谷区世田谷3-10-11</p>
+  <p class="copyright" id="copyright"></p>
+</footer>
+
+<button id="toTop" class="to-top" aria-label="ページ上部へ戻る">↑</button>
+
+<script src="script.js"></script>
+</body>
+</html>
+
+(() => {
+  "use strict";
+
+  // ---------- Mobile nav toggle ----------
+  const navToggle = document.getElementById("navToggle");
+  const siteNav = document.getElementById("siteNav");
+
+  if (navToggle && siteNav) {
+    navToggle.addEventListener("click", () => {
+      const isOpen = siteNav.classList.toggle("is-open");
+      navToggle.classList.toggle("is-active", isOpen);
+      navToggle.setAttribute("aria-expanded", String(isOpen));
+    });
+
+    siteNav.querySelectorAll("a").forEach((link) => {
+      link.addEventListener("click", () => {
+        siteNav.classList.remove("is-open");
+        navToggle.classList.remove("is-active");
+        navToggle.setAttribute("aria-expanded", "false");
+      });
+    });
+  }
+
+  // ---------- Fade-in on scroll ----------
+  const fadeEls = document.querySelectorAll(".fade-in");
+
+  if ("IntersectionObserver" in window && fadeEls.length) {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add("is-visible");
+            observer.unobserve(entry.target);
+          }
+        });
+      },
+      { threshold: 0.15 }
+    );
+
+    fadeEls.forEach((el) => observer.observe(el));
+  } else {
+    fadeEls.forEach((el) => el.classList.add("is-visible"));
+  }
+
+  // ---------- Back-to-top button ----------
+  const toTopBtn = document.getElementById("toTop");
+
+  if (toTopBtn) {
+    window.addEventListener("scroll", () => {
+      toTopBtn.classList.toggle("is-visible", window.scrollY > 480);
+    });
+
+    toTopBtn.addEventListener("click", () => {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+  }
+
+  // ---------- Footer copyright year ----------
+  const copyrightEl = document.getElementById("copyright");
+  if (copyrightEl) {
+    copyrightEl.textContent = `© ${new Date().getFullYear()} 三千堂鍼灸指圧治療院`;
+  }
+})();
+
+/* ==========================================================================
+   三千堂鍼灸指圧治療院 - style.css
+   ========================================================================== */
+
+:root {
+  --color-bg: #faf6f0;
+  --color-bg-alt: #f1ebe0;
+  --color-surface: #ffffff;
+  --color-text: #2e2a25;
+  --color-text-soft: #5c5650;
+  --color-primary: #6b3a2e;      /* 深い朱茶色 */
+  --color-primary-dark: #4d281f;
+  --color-accent: #a8562f;       /* 朱色アクセント */
+  --color-border: #e2d8c6;
+  --font-serif: "Hiragino Mincho ProN", "Yu Mincho", "YuMincho", serif;
+  --font-sans: "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif;
+  --max-width: 1080px;
+  --radius: 6px;
+  --shadow-soft: 0 4px 20px rgba(46, 42, 37, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  color: var(--color-text);
+  background-color: var(--color-bg);
+  line-height: 1.9;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+h1, h2, h3 {
+  font-family: var(--font-serif);
+  color: var(--color-primary-dark);
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* ---------- Header ---------- */
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(250, 246, 240, 0.94);
+  backdrop-filter: blur(6px);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.header-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 16px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.site-title {
+  margin: 0;
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--color-primary-dark);
+}
+
+.site-nav ul {
+  display: flex;
+  gap: 28px;
+}
+
+.site-nav a {
+  font-size: 0.95rem;
+  color: var(--color-text);
+  position: relative;
+  padding-bottom: 4px;
+}
+
+.site-nav a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 1px;
+  background: var(--color-accent);
+  transition: width 0.25s ease;
+}
+
+.site-nav a:hover::after {
+  width: 100%;
+}
+
+.nav-toggle {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  width: 34px;
+  height: 34px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+
+.nav-toggle span {
+  display: block;
+  height: 2px;
+  background: var(--color-primary-dark);
+  border-radius: 2px;
+  transition: transform 0.25s ease, opacity 0.25s ease;
+}
+
+/* ---------- Hero ---------- */
+
+.hero {
+  background:
+    radial-gradient(circle at 80% 20%, rgba(168, 86, 47, 0.08), transparent 60%),
+    linear-gradient(180deg, var(--color-bg-alt) 0%, var(--color-bg) 100%);
+  padding: 96px 24px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.hero-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;
+  gap: 56px;
+  align-items: center;
+}
+
+.hero-text {
+  text-align: left;
+}
+
+.hero-eyebrow {
+  font-size: 0.85rem;
+  letter-spacing: 0.15em;
+  color: var(--color-accent);
+  margin-bottom: 16px;
+}
+
+.hero h1 {
+  font-size: 2.4rem;
+  line-height: 1.5;
+  margin-bottom: 24px;
+}
+
+.hero-lead {
+  color: var(--color-text-soft);
+  margin-bottom: 36px;
+  font-size: 1rem;
+}
+
+.hero-photo img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-soft);
+  border: 1px solid var(--color-border);
+}
+
+/* ---------- Buttons ---------- */
+
+.btn {
+  display: inline-block;
+  padding: 14px 32px;
+  border-radius: 999px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+  border: 1px solid transparent;
+}
+
+.btn-primary {
+  background: var(--color-primary);
+  color: #fff;
+  box-shadow: var(--shadow-soft);
+}
+
+.btn-primary:hover {
+  background: var(--color-primary-dark);
+  transform: translateY(-2px);
+}
+
+.btn-outline {
+  background: transparent;
+  border-color: var(--color-primary);
+  color: var(--color-primary-dark);
+}
+
+.btn-outline:hover {
+  background: var(--color-primary);
+  color: #fff;
+  transform: translateY(-2px);
+}
+
+/* ---------- Sections ---------- */
+
+.section {
+  padding: 88px 24px;
+}
+
+.section-alt {
+  background: var(--color-bg-alt);
+}
+
+.section-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+.section h2 {
+  font-size: 1.7rem;
+  text-align: center;
+  margin-bottom: 48px;
+  position: relative;
+}
+
+.section h2 span {
+  padding-bottom: 14px;
+  border-bottom: 2px solid var(--color-accent);
+}
+
+.lead-text {
+  max-width: 720px;
+  margin: 0 auto 40px;
+  text-align: center;
+  color: var(--color-text-soft);
+}
+
+.note {
+  text-align: center;
+  color: var(--color-text-soft);
+  font-size: 0.9rem;
+  margin-top: 32px;
+}
+
+/* ---------- Fade-in on scroll ---------- */
+
+.fade-in {
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity 0.8s ease, transform 0.8s ease;
+}
+
+.fade-in.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* ---------- About / Profile ---------- */
+
+.profile-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 32px;
+}
+
+.profile-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 32px;
+  box-shadow: var(--shadow-soft);
+}
+
+.profile-card h3 {
+  font-size: 1.15rem;
+  margin-bottom: 16px;
+  padding-left: 14px;
+  border-left: 3px solid var(--color-accent);
+}
+
+.profile-card p {
+  color: var(--color-text-soft);
+  margin: 0;
+}
+
+/* ---------- Services ---------- */
+
+.service-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+
+.service-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 28px 24px;
+  box-shadow: var(--shadow-soft);
+  transition: transform 0.2s ease;
+}
+
+.service-card:hover {
+  transform: translateY(-4px);
+}
+
+.service-card h3 {
+  font-size: 1.05rem;
+  margin-bottom: 12px;
+  color: var(--color-accent);
+}
+
+.service-card p {
+  margin: 0;
+  font-size: 0.92rem;
+  color: var(--color-text-soft);
+}
+
+/* ---------- Price table ---------- */
+
+.price-table {
+  width: 100%;
+  max-width: 560px;
+  margin: 0 auto;
+  border-collapse: collapse;
+  background: var(--color-surface);
+  box-shadow: var(--shadow-soft);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.price-table th,
+.price-table td {
+  padding: 22px 28px;
+  text-align: left;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.price-table tr:last-child th,
+.price-table tr:last-child td {
+  border-bottom: none;
+}
+
+.price-table th {
+  font-weight: 600;
+  color: var(--color-primary-dark);
+  width: 55%;
+}
+
+.price-table td {
+  color: var(--color-accent);
+  font-weight: 700;
+  text-align: right;
+}
+
+/* ---------- Access ---------- */
+
+.access-photo {
+  max-width: 480px;
+  margin: 0 auto 40px;
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow-soft);
+  border: 1px solid var(--color-border);
+}
+
+.access-photo img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  display: block;
+}
+
+.access-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  align-items: start;
+}
+
+.info-row {
+  display: flex;
+  gap: 20px;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.info-row:first-child {
+  padding-top: 0;
+}
+
+.info-row dt {
+  flex: 0 0 80px;
+  font-weight: 700;
+  color: var(--color-primary-dark);
+}
+
+.info-row dd {
+  margin: 0;
+  color: var(--color-text-soft);
+}
+
+.info-row a {
+  color: var(--color-accent);
+  text-decoration: underline;
+}
+
+.access-map {
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow-soft);
+  border: 1px solid var(--color-border);
+}
+
+.access-map iframe {
+  width: 100%;
+  height: 320px;
+  border: 0;
+}
+
+/* ---------- Contact ---------- */
+
+.contact-inner {
+  text-align: center;
+}
+
+.contact-buttons {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* ---------- Footer ---------- */
+
+.site-footer {
+  background: var(--color-primary-dark);
+  color: #f1e9df;
+  text-align: center;
+  padding: 40px 24px;
+  font-size: 0.85rem;
+}
+
+.site-footer p {
+  margin: 4px 0;
+}
+
+.copyright {
+  opacity: 0.7;
+}
+
+/* ---------- To top button ---------- */
+
+.to-top {
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: none;
+  background: var(--color-primary);
+  color: #fff;
+  font-size: 1.1rem;
+  cursor: pointer;
+  box-shadow: var(--shadow-soft);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(10px);
+  transition: opacity 0.25s ease, transform 0.25s ease, visibility 0.25s ease;
+}
+
+.to-top.is-visible {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.to-top:hover {
+  background: var(--color-primary-dark);
+}
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 860px) {
+  .profile-grid,
+  .service-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .access-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero h1 {
+    font-size: 1.9rem;
+  }
+
+  .hero-inner {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+
+  .hero-text {
+    text-align: center;
+  }
+
+  .hero-photo img {
+    aspect-ratio: 4 / 3;
+  }
+}
+
+@media (max-width: 720px) {
+  .nav-toggle {
+    display: flex;
+  }
+
+  .site-nav {
+    position: fixed;
+    top: 65px;
+    left: 0;
+    right: 0;
+    background: var(--color-bg);
+    border-bottom: 1px solid var(--color-border);
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+  }
+
+  .site-nav.is-open {
+    max-height: 320px;
+  }
+
+  .site-nav ul {
+    flex-direction: column;
+    gap: 0;
+    padding: 8px 24px 20px;
+  }
+
+  .site-nav li {
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .site-nav a {
+    display: block;
+    padding: 14px 0;
+  }
+
+  .nav-toggle.is-active span:nth-child(1) {
+    transform: translateY(7px) rotate(45deg);
+  }
+
+  .nav-toggle.is-active span:nth-child(2) {
+    opacity: 0;
+  }
+
+  .nav-toggle.is-active span:nth-child(3) {
+    transform: translateY(-7px) rotate(-45deg);
+  }
+
+  .hero {
+    padding: 72px 20px;
+  }
+
+  .section {
+    padding: 64px 20px;
+  }
+
+  .info-row {
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .price-table th,
+  .price-table td {
+    padding: 16px 20px;
+  }
+}
